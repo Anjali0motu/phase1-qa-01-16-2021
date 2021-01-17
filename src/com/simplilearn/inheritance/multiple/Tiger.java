@@ -1,6 +1,6 @@
 package com.simplilearn.inheritance.multiple;
 
-public class Tiger extends Animal, Beast {
+public class Tiger extends Animal{
 	
 	public String name;
 	
